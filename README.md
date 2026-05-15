@@ -89,7 +89,7 @@ Google Maps integration
 App information
 Firebase connection testing
 
--🔥 Firebase Integration
+# 🔥 Firebase Integration
 - Firebase Firestore is integrated for:
 - Cloud connectivity testing
 - Future emergency data synchronization
