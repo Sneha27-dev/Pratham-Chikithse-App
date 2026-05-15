@@ -1,34 +1,57 @@
-Pratham Chikithse – Emergency First Aid Assistant App
-📌 Project Overview
+# 🚑 Pratham Chikithse – Emergency First Aid Assistant App
 
-Pratham Chikithse is an Android-based emergency assistance application developed using Kotlin and Jetpack Compose.
-The application provides quick first-aid guidance during emergency situations such as burns, fractures, choking, snake bites, heart attacks, and more.
+## 📌 Project Overview
 
-The main objective of this project is to help users access emergency instructions quickly and easily during critical situations.
+Pratham Chikithse is an Android-based emergency assistance application developed using **Kotlin** and **Jetpack Compose**.
 
-🚀 Features
-🚨 SOS Emergency Calling
-📖 First Aid Instructions
-🔊 Voice-Based Emergency Guidance (Text-to-Speech)
-🎤 Voice Search Support
-🔍 Search Emergency Situations
-🌙 Dark Mode Support
-🏥 Emergency Contact Section
-📍 Nearby Hospital Map Integration
-☁ Firebase Connectivity
-📱 Modern UI using Jetpack Compose
-💾 Offline Data Storage using Room Database
+The application provides quick first-aid guidance during emergency situations such as:
 
-🛠 Technologies Used:
-Kotlin	Android App Development
-Jetpack Compose	Modern UI Design
-Room Database	Local Offline Storage
-Firebase Firestore	Cloud Connectivity
-Text-to-Speech	Voice Instructions
-Google Maps Intent	Nearby Hospitals
-Android Studio	Development Environment
+- Burns
+- Fractures
+- Choking
+- Snake Bites
+- Heart Attacks
+- Electric Shock
+- Poisoning
+- And more
 
-📂 Project Structure
+The main objective of this project is to help users access emergency instructions quickly during critical situations.
+
+---
+
+# 🚀 Features
+
+- 🚨 SOS Emergency Calling
+- 📖 First Aid Instructions
+- 🔊 Voice-Based Emergency Guidance (Text-to-Speech)
+- 🎤 Voice Search Support
+- 🔍 Search Emergency Situations
+- 🌙 Dark Mode Support
+- 🏥 Emergency Contact Section
+- 📍 Nearby Hospital Map Integration
+- ☁ Firebase Connectivity
+- 📱 Modern UI using Jetpack Compose
+- 💾 Offline Data Storage using Room Database
+
+---
+
+# 🛠 Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Kotlin | Android App Development |
+| Jetpack Compose | Modern UI Design |
+| Room Database | Offline Storage |
+| Firebase Firestore | Cloud Connectivity |
+| Text-to-Speech | Voice Instructions |
+| Google Maps Intent | Nearby Hospitals |
+| Android Studio | Development Environment |
+
+---
+
+# 📂 Project Structure
+
+```text
 app/
  ├── src/main/java/com/example/prathamchikithse/
  │    ├── MainActivity.kt
@@ -42,8 +65,9 @@ app/
  │    ├── mipmap/
  │    ├── values/
  │
- ├── AndroidManifest.xml
+ ├── AndroidManifest.xml   
 
+```
 📱 Main Modules
 1. Home Screen
 Displays emergency categories
@@ -51,17 +75,17 @@ Search functionality
 Voice search
 SOS emergency button
 
-3. Detail Screen
+2. Detail Screen
 Step-by-step emergency instructions
 Do’s and Don’ts
 Voice instruction reading
 
-4. Contacts Screen
+3. Contacts Screen
 Emergency contact numbers
 Nearby hospital information
 Google Maps integration
 
-5. About Section
+4. About Section
 App information
 Firebase connection testing
 
@@ -87,6 +111,7 @@ Help users act immediately during emergencies
 Create an easy-to-use emergency assistant application
 
 📸 Screenshots
+
 (Add your app screenshots here)
 
 Example:
@@ -96,7 +121,6 @@ Detail Screen
 Emergency Contacts
 Dark Mode
 
-
 ▶ How to Run the Project
 Clone the repository
 git clone https://github.com/your-username/Pratham-Chikithse-App.git
@@ -104,9 +128,7 @@ Open the project in Android Studio
 Connect Firebase using google-services.json
 Sync Gradle files
 Run the application on Emulator or Android Device
-📦 APK Build
-
 
 👩‍💻 Developed By
-       Sneha Ganiga
-       Final Year Information Science Engineering Student
+    Sneha Ganiga
+    Final Year Information Science Engineering Student
