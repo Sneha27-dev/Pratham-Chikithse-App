@@ -120,6 +120,6 @@ Firebase connection testing
 - Run the application on Emulator or Android Device
 
 
-- 👩‍💻Developed By
+ **👩‍💻Developed By**
    - Sneha Ganiga
    - Final Year Information Science Engineering Student
