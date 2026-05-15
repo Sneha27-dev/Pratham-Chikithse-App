@@ -88,32 +88,30 @@ Google Maps integration
 4. About Section
 App information
 Firebase connection testing
-#
-🔥 Firebase Integration
-Firebase Firestore is integrated for:
-Cloud connectivity testing
-Future emergency data synchronization
----
-#
-💾 Database
-Room Database is used to:
-Store emergency details offline
-Provide faster access without internet
----
-#
-🔊 Voice Assistance
-The app uses Android Text-to-Speech (TTS) to:
-Read emergency instructions aloud
-Assist users during panic situations
----
-🎯 Objectives
-#
-Provide quick emergency support
-Improve awareness of first aid
-Help users act immediately during emergencies
-Create an easy-to-use emergency assistant application
----
-📸 Screenshots
+
+-🔥 Firebase Integration
+- Firebase Firestore is integrated for:
+- Cloud connectivity testing
+- Future emergency data synchronization
+
+
+- 💾 Database
+- Room Database is used to:
+- Store emergency details offline
+- Provide faster access without internet
+
+- 🔊 Voice Assistance
+- The app uses Android Text-to-Speech (TTS) to:
+- Read emergency instructions aloud
+- Assist users during panic situations
+
+- 🎯 Objectives
+- Provide quick emergency support
+- Improve awareness of first aid
+- Help users act immediately during emergencies
+- Create an easy-to-use emergency assistant application
+
+- 📸 Screenshots
 
 (Add your app screenshots here)
 
@@ -124,15 +122,14 @@ Detail Screen
 Emergency Contacts
 Dark Mode
 
-▶ How to Run the Project
-# 
-Clone the repository
-git clone https://github.com/your-username/Pratham-Chikithse-App.git
-Open the project in Android Studio
-Connect Firebase using google-services.json
-Sync Gradle files
-Run the application on Emulator or Android Device
----
+- ▶ How to Run the Project
+- Clone the repository
+- git clone https://github.com/your-username/Pratham-Chikithse-App.git
+- Open the project in Android Studio
+- Connect Firebase using google-services.json
+- Sync Gradle files
+- Run the application on Emulator or Android Device
+
 
 👩‍💻 Developed By
     Sneha Ganiga
