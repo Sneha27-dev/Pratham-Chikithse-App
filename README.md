@@ -68,7 +68,7 @@ app/
  ├── AndroidManifest.xml   
 
 ```
-📱 Main Modules
+#📱 Main Modules
 1. Home Screen
 Displays emergency categories
 Search functionality
@@ -95,34 +95,23 @@ Firebase connection testing
 - Future emergency data synchronization
 
 
-- 💾 Database
+# 💾 Database
 - Room Database is used to:
 - Store emergency details offline
 - Provide faster access without internet
 
-- 🔊 Voice Assistance
+# 🔊 Voice Assistance
 - The app uses Android Text-to-Speech (TTS) to:
 - Read emergency instructions aloud
 - Assist users during panic situations
 
-- 🎯 Objectives
+# 🎯 Objectives
 - Provide quick emergency support
 - Improve awareness of first aid
 - Help users act immediately during emergencies
 - Create an easy-to-use emergency assistant application
 
-- 📸 Screenshots
-
-(Add your app screenshots here)
-
-Example:
-
-Home Screen
-Detail Screen
-Emergency Contacts
-Dark Mode
-
-- ▶ How to Run the Project
+# ▶ How to Run the Project
 - Clone the repository
 - git clone https://github.com/your-username/Pratham-Chikithse-App.git
 - Open the project in Android Studio
